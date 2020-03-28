@@ -30,9 +30,5 @@ public class ArtistActivity extends AppCompatActivity {
         CategoryAdapter artistAdapter = new CategoryAdapter (this,artist);
         listView.setAdapter(artistAdapter);
 
-
-
-
-
     }
 }
